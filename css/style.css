@@ -2709,7 +2709,7 @@ a:visited.accordion-toggle {
     text-align: center;
 }
 .de_tab.tab_style_1 .de_nav li {
-    margin: 5px;
+    margin: 1px; 
     border: solid 2px rgba(255, 255, 255, .1);
     background: none;
     display: inline-block;
